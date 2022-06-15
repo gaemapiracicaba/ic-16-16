@@ -2,6 +2,7 @@
 data/input/
 data/output/*
 !data/output/gjson/
+data/output/gjson/restricao_merged_mun.geojson
 
 # IDEs
 .idea/
