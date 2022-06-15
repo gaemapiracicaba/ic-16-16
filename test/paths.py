@@ -18,5 +18,11 @@ os.makedirs(output_path_kml, exist_ok=True)
 output_path_gpkg = os.path.join(output_path, 'gpkg')
 os.makedirs(output_path_gpkg, exist_ok=True)
 
+output_path_gjson = os.path.join(output_path, 'gjson')
+os.makedirs(output_path_gjson, exist_ok=True)
+
 output_path_maps = os.path.join(output_path, 'maps')
 os.makedirs(output_path_maps, exist_ok=True)
+
+output_path_tabs = os.path.join(output_path, 'tabs')
+os.makedirs(output_path_tabs, exist_ok=True)
