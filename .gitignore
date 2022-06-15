@@ -1,5 +1,7 @@
 # Data
-data/
+data/input/
+data/output/*
+!data/output/gjson/
 
 # IDEs
 .idea/
