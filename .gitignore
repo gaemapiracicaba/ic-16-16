@@ -1,6 +1,7 @@
 # Data
 data/input/
 data/output/*
+data/output_*/*
 !data/output/gjson/
 data/output/gjson/restricao_merged_mun.geojson
 
